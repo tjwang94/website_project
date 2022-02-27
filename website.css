@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+.body{
+    border: solid red
+}
+
+.grey{
+    background-color: #1f2937;
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: solid green;
+    padding-left: 100px;
+    
+
+}
+
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+.links{
+    padding-right: 100px;
+    gap:24px;
+    font-size: 18px;
+    color:#e5e7eb;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    border:solid red;
+}
+
